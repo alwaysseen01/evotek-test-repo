@@ -4,39 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edae6a7b-22f7-434b-b266-61cdb8eefea5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/evotek_test_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alembic.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alembic/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alembic/env.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alembic/script.py.mako" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alembic/versions/c03329502862_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/v1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/v1/controlers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/domain/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/domain/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/domain/models/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/domain/schemas/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/domain/schemas/schemas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/domain/yandex_tts_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/infrastructure/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/infrastructure/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/infrastructure/yandex_tts_adapter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_main.http" afterDir="false" />
-    </list>
+    <list default="true" id="edae6a7b-22f7-434b-b266-61cdb8eefea5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +55,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -139,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728457896002</updated>
-      <workItem from="1728457897323" duration="10772000" />
+      <workItem from="1728457897323" duration="10900000" />
     </task>
     <servers />
   </component>
