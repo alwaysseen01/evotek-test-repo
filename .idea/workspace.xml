@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edae6a7b-22f7-434b-b266-61cdb8eefea5" name="Changes" comment="" />
+    <list default="true" id="edae6a7b-22f7-434b-b266-61cdb8eefea5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/domain/services/yandex_tts_interactor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/infrastructure/repositories/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/infrastructure/repositories/repositories.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/infrastructure/repository_interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/evotek_test_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/evotek_test_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/v1/controlers.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/v1/controlers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/domain/schemas/schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/domain/schemas/schemas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/domain/services/yandex_tts_service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/infrastructure/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/infrastructure/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/infrastructure/yandex_tts_adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/infrastructure/yandex_tts_adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +64,7 @@
   "keyToString": {
     "FastAPI.evotek_test_project.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/User/PycharmProjects/evotek_test_project/app/main.py",
     "node.js.detected.package.eslint": "true",
@@ -61,6 +78,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\evotek_test_project\app\domain\services" />
       <recent name="C:\Users\User\PycharmProjects\evotek_test_project\app" />
     </key>
   </component>
@@ -108,7 +126,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728457896002</updated>
-      <workItem from="1728457897323" duration="10900000" />
+      <workItem from="1728457897323" duration="22212000" />
     </task>
     <servers />
   </component>
@@ -116,6 +134,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/evotek_test_project$evotek_test_project.coverage" NAME="evotek_test_project Coverage Results" MODIFIED="1728469782713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/evotek_test_project$evotek_test_project.coverage" NAME="evotek_test_project Coverage Results" MODIFIED="1728482637220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
